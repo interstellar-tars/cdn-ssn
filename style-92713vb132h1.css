@@ -1,6 +1,6 @@
 header{
     color: red;
-    background-color: red;
+    background-color: green;
     width: 100%;
     height: 6vh;
 }
@@ -8,7 +8,7 @@ header center h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:azure;
     font-size: larger;
-    background-color: red;
+    background-color: green;
     padding-top: 1vh;
 }
 center h1{
