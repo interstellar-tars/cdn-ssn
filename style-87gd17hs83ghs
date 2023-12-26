@@ -1,0 +1,20 @@
+header{
+    color: black;
+    background-color: black;
+    width: 100%;
+    height: 6vh;
+}
+header center h2{
+    color: aliceblue;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+center h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+center img{
+    height: 55%;
+
+}
