@@ -1,0 +1,18 @@
+a image{
+    height: 6vh;
+    width: 6vh;
+}
+header{
+    color: black;
+    height: 6vh;
+    width: auto;
+}
+header a h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+    background-color: black;
+    padding-left: 4px;
+}
+header a{
+    color: black;
+}
