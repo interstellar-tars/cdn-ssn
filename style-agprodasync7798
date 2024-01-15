@@ -1,0 +1,14 @@
+header{
+    color: black;
+    height: 6vh;
+    width: auto;
+}
+header h2{
+    color: azure;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+center h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
