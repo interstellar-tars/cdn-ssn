@@ -4,8 +4,8 @@ header{
     height: 6vh;
 }
 header center h2{
-    color: rgb(75, 75, 75);
-    background-color: black;
+    color: black;
+    background-color: rgb(75, 75, 75);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 center h1 {
