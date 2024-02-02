@@ -11,7 +11,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #4184ff;
+  background-color: #00A2FF;
 }
 a td, th {
   border: 1px solid #ffffff;
@@ -20,7 +20,7 @@ a td, th {
 }
 
 a tr:nth-child(even) {
-  background-color: #4184ff;
+  background-color: #00A2FF;
 }
 footer{
 color: rgb(48, 48, 48);
