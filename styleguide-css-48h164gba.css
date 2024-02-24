@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot');
 body{
     background-color: #757575;
     color: #757575;
@@ -35,5 +37,25 @@ header img{
 #Header-Container class-header header{
     width: 40%;
     height: 6vh;
+    color: #191919;
+}
+#warning-text{
+    color: #E2231A;
+    font-family: Yanone Kaffeesatz;
+    font-size: xx-large;
+}
+#span warning-text{
+    color: #E2231A;
+    font-family: Yanone Kaffeesatz;
+    font-size: xx-large;
+}
+#warning-text span{
+    color: #E2231A;
+    font-family: Yanone Kaffeesatz;
+    font-size: xx-large;
+}
+#large-header header{
+    width: 100%;
+    height: 10vh;
     color: #191919;
 }
