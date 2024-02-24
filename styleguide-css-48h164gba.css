@@ -1,0 +1,39 @@
+body{
+    background-color: #757575;
+    color: #757575;
+}
+header{
+    color: #191919;
+    background-color: #191919;
+    width: 100%;
+    height: 8vh;
+}
+header img{
+    width: 20vh;
+    height: 6vh;
+    padding-top: 1vh;
+    padding-left: 1vh;
+    padding-bottom: 1vh;
+    background-color: #191919;
+}
+#style-container{
+    background-color: #393B3D;
+    color: #393B3D;
+    width: 50%;
+    height: fit-content;
+ }
+#Colors-Container img{
+    width: 20vh;
+    height: 16vh;
+}
+#Colors-Container UsageBlock{
+    width: 25%;
+    height: fit-content;
+    background-color: #191919;
+    color: #191919;
+}
+#Header-Container class-header header{
+    width: 40%;
+    height: 6vh;
+    color: #191919;
+}
