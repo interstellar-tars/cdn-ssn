@@ -59,3 +59,22 @@ header img{
     height: 10vh;
     color: #191919;
 }
+#Icon-Container img{
+    height: 16vh;
+    width: 16vh;
+}
+#alert-text{
+    color: #F68802;
+    font-family: Yanone Kaffeesatz;
+    font-size: xx-large;
+}
+#span alert-text{
+    color: #F68802;
+    font-family: Yanone Kaffeesatz;
+    font-size: xx-large;
+}
+#alert-text span{
+    color: #F68802;
+    font-family: Yanone Kaffeesatz;
+    font-size: xx-large;
+}
