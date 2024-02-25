@@ -78,3 +78,25 @@ header img{
     font-family: Yanone Kaffeesatz;
     font-size: xx-large;
 }
+#Text-Container code{
+    color: #F5F5F5;
+    background-color: #191919;
+}
+#Text-Container h1{
+    color: #F5F5F5;
+    font-family: Protest Riot;
+}
+#Text-Container h2{
+    color: #F5F5F5;
+    font-family: Protest Riot;
+    font-size: x-large;
+}
+#Text-Container h3{
+    color: #F5F5F5;
+    font-family: Yanone Kaffeesatz;
+    font-size: large;
+}
+#Text-Container code-container img{
+    width: 20vh;
+    height: 10vh;
+}
