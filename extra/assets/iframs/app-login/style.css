@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot');
+body{
+    background-color: #757575;
+}
+center{
+    padding-top: 5%;
+    background-color: #757575;
+ }
+ #auth-header h1{
+    
+    font-family: Yanone Kaffeesatz;
+    color: #191919;
+    font-size: xx-large;
+}
+* {box-sizing: border-box;}
+/* Style the input container */
+.search-container {
+  float: right;
+}
+
+/* Style the input field inside the navbar */
+input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+/* Style the button inside the input container */
+.search-container button {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.search-container button:hover {
+  background: #757575;
+}
+
+/* Add responsiveness - On small screens, display the navbar vertically instead of horizontally */
+@media screen and (max-width: 600px) {
+  .search-container {
+    float: none;
+  }
+  .search-container button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: fit-content;
+    height: fit-content;
+    margin: 0;
+    padding: 14px;
+    background-color: #757575;
+  }
+  .search-container button center img {
+    width: 50vh;
+    height: 15vh;
+  }
+  input[type=text] {
+    border: 1px solid #ccc;
+  }
+}
